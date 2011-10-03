@@ -1,0 +1,12 @@
+{
+  "name": "connect-external-sass",
+  "description": "Compiler sass and scss, using external ruby sass command exec.",
+  "version": "0.1.0",
+  "author": "Kazuhito Hokamura <k.hokamura@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/hokaccha/node-connect-external-sass.git"
+  },
+  "keywords": ["connect", "sass"],
+  "main": "./index"
+}
