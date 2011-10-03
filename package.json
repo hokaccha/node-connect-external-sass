@@ -7,6 +7,10 @@
     "type": "git",
     "url": "http://github.com/hokaccha/node-connect-external-sass.git"
   },
+  "dependencies": {
+    "connect": ">=1.5.1"
+  },
   "keywords": ["connect", "sass"],
+  "engines": { "node": ">= 0.4.1 < 0.5.0" },
   "main": "./index"
 }
